@@ -2,6 +2,6 @@
   "name": "deprec1",
   "version": "0.0.1",
   "dependencies": {
-    "typescript": "^2.9.0-rc"
+    "typescript": "^2.9.1-insiders.20180516"
   }
 }
